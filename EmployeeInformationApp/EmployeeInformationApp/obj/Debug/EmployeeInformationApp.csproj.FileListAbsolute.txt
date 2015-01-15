@@ -1,0 +1,37 @@
+E:\ASP.Net\More Practise\28.12.14\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.exe.config
+E:\shawon\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.exe.config
+E:\shawon\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.Properties.Resources.resources
+E:\shawon\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.csproj.GenerateResource.Cache
+E:\shawon\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.exe
+E:\shawon\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.pdb
+E:\shawon\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.exe
+E:\shawon\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.pdb
+E:\shawon\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.UI.AddDesignationUI.resources
+E:\shawon\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.UI.EmployeeInformationUI.resources
+E:\shawon\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.UI.MainUI.resources
+E:\shawon\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.UI.SearchEmployeeUI.resources
+E:\shawon\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.csprojResolveAssemblyReference.cache
+E:\FTFL Class Lecture\BITM course\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.exe.config
+E:\FTFL Class Lecture\BITM course\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.exe
+E:\FTFL Class Lecture\BITM course\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.pdb
+E:\FTFL Class Lecture\BITM course\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.exe
+E:\FTFL Class Lecture\BITM course\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.pdb
+E:\FTFL Class Lecture\BITM course\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.csprojResolveAssemblyReference.cache
+E:\FTFL Class Lecture\BITM course\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.UI.AddDesignationUI.resources
+E:\FTFL Class Lecture\BITM course\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.UI.EmployeeInformationUI.resources
+E:\FTFL Class Lecture\BITM course\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.UI.MainUI.resources
+E:\FTFL Class Lecture\BITM course\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.Properties.Resources.resources
+E:\FTFL Class Lecture\BITM course\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.UI.SearchEmployeeUI.resources
+E:\FTFL Class Lecture\BITM course\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.csproj.GenerateResource.Cache
+E:\FTFL Class Lecture\BITM course\January, 2015\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.exe.config
+E:\FTFL Class Lecture\BITM course\January, 2015\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.exe
+E:\FTFL Class Lecture\BITM course\January, 2015\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.pdb
+E:\FTFL Class Lecture\BITM course\January, 2015\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.csprojResolveAssemblyReference.cache
+E:\FTFL Class Lecture\BITM course\January, 2015\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.UI.AddDesignationUI.resources
+E:\FTFL Class Lecture\BITM course\January, 2015\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.UI.EmployeeInformationUI.resources
+E:\FTFL Class Lecture\BITM course\January, 2015\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.UI.MainUI.resources
+E:\FTFL Class Lecture\BITM course\January, 2015\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.Properties.Resources.resources
+E:\FTFL Class Lecture\BITM course\January, 2015\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.UI.SearchEmployeeUI.resources
+E:\FTFL Class Lecture\BITM course\January, 2015\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.csproj.GenerateResource.Cache
+E:\FTFL Class Lecture\BITM course\January, 2015\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.exe
+E:\FTFL Class Lecture\BITM course\January, 2015\07-Jan-2015\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.pdb
